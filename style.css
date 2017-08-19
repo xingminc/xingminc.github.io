@@ -1,0 +1,101 @@
+﻿
+
+
+
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+
+p{
+   text-align: center;
+}
+
+.navigation{
+  background-color: rgba(255, 255, 255, 0.9);
+  overflow-y:  auto;
+  position: fixed;
+  text-align: center;
+  z-index: 1000;
+  width: 100%;
+  top:0;
+  left: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  color: #14213D;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
+}
+
+
+#cover {
+  background:
+   url("https://www.urlaubsguru.de/wp-content/uploads/2015/07/central-park-aerial-view-manhattan-new-york-istock_000053649264_large-2-1.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 900px;
+  position:relative;
+  top: -80px;
+  width: 100%;
+  
+}
+.cover-content {
+  color: white;
+  font-size: 50px;
+  box-sizing: border-box;
+  /*background-color: rgba(255, 255, 255, 0.32); */
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 190px;
+  width: 70%;
+}
+
+.cities{
+                                                                                         
+  background-color: rgba(255, 255, 255, 0.32);
+   background: #EEEFF1;
+  box-sizing: border-box;
+  width: 90%;
+  margin: 0px auto;
+  padding: 100px 0px;
+  text-align: center;
+  top: -100px;
+  color: #14213D;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  
+}
+
+.city{
+  
+  vertical-align: top; 
+  display: inline-block;
+  margin: 0px 2% 80px 2%;
+  text-align: center;
+  width: 40%;
+  
+
+}
+
+.city img{
+  width: 70%;
+  height: 260px;
+  border-radius: 5%;
+}
+
+.title{
+  text-align: center;
+}
