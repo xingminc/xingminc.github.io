@@ -41,7 +41,7 @@ li {
 
 #cover {
   background:
-   url("https://www.urlaubsguru.de/wp-content/uploads/2015/07/central-park-aerial-view-manhattan-new-york-istock_000053649264_large-2-1.jpg") no-repeat center bottom;
+   url("/Users/xingminchen/Desktop/album/Done/IMG_4110.jpg") no-repeat center bottom;
   background-size: cover;
   background-attachment: fixed;
   height: 900px;
@@ -85,17 +85,20 @@ li {
   display: inline-block;
   margin: 0px 2% 80px 2%;
   text-align: center;
-  width: 40%;
+  width: 60%;
   
 
 }
 
 .city img{
-  width: 70%;
-  height: 260px;
-  border-radius: 5%;
+  width: 100%;
+  height: 450px;
 }
 
 .title{
   text-align: center;
+}
+
+.para{
+  font-size: 20px;
 }
