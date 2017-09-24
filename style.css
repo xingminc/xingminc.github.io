@@ -86,15 +86,14 @@ li {
   margin: 0px 2% 80px 2%;
   text-align: center;
   width: 60%;
-  
-
 }
 
 .city img{
   display: block;
   width: 110%;
   height: 420px;
-  margin: auto;
+  margin-left: 100px;
+  
   
 }
  
