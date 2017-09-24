@@ -91,10 +91,11 @@ li {
 }
 
 .city img{
+  display: block;
   width: 110%;
   height: 420px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  
 }
  
 
