@@ -90,10 +90,9 @@ li {
 
 .city img{
   display: block;
-  width: 110%;
-  height: 420px;
-  margin-left: 100px;
-  
+  width: 100%;
+  height: 400px;
+  margin:auto;
   
 }
  
